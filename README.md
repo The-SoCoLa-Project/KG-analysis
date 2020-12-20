@@ -41,7 +41,7 @@ where InputLabel is the label which was given as input to the sub component, N1,
 **Brief-Description:**
 This sub component is executed from the graphFinal.py file which is in the directory ../Unification_of_Components/graphFinal.py. As soon as graphFinal.py is executed it will ask for the labels of an Object and an Action (or State), and a clarrification if it has to evaluate an Object-Action or an Object-State relation. Therefore, the input should be given in the form: Object Action OA (or: Object State OS). Then, the sub component will compute the values of the 5 five metrics. The final weighted metric shows to the framework if the two graph are adequately related, in order to create an object-action or object-state relation in our Knowledge Graph.
 
-**(C) Knowlegde Graph Creator**
+**(C) Knowlegde Ingestion**
 
 **Input:** The label of an Object
 
